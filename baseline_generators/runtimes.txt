@@ -1,0 +1,30 @@
+Gen. (-05.33) | Discrim. (-00.20): 100%|██████████| 180/180 [03:57<00:00,  1.32s/it]
+304.7022018432617 seconds is are takes for CTGAN
+Gen. (-02.03) | Discrim. (-00.05): 100%|██████████| 180/180 [03:49<00:00,  1.28s/it]
+296.91705226898193 seconds is are takes for CTGAN
+Gen. (-03.76) | Discrim. (+00.67): 100%|██████████| 180/180 [04:19<00:00,  1.44s/it]
+334.9144766330719 seconds is are takes for CTGAN
+Gen. (-02.14) | Discrim. (+00.35): 100%|██████████| 180/180 [03:24<00:00,  1.13s/it]
+266.4733307361603 seconds is are takes for CTGAN
+Gen. (-03.78) | Discrim. (+00.48): 100%|██████████| 180/180 [02:43<00:00,  1.10it/s]
+223.86042284965515 seconds is are takes for CTGAN
+Gen. (-03.08) | Discrim. (+00.60): 100%|██████████| 180/180 [00:58<00:00,  3.08it/s]
+75.28612160682678 seconds is are takes for CTGAN
+Gen. (-01.90) | Discrim. (+00.19): 100%|██████████| 180/180 [00:47<00:00,  3.82it/s]
+63.125831604003906 seconds is are takes for CTGAN
+Gen. (-00.35) | Discrim. (-00.25): 100%|██████████| 180/180 [00:56<00:00,  3.19it/s]
+69.55566644668579 seconds is are takes for CTGAN
+Gen. (-00.74) | Discrim. (-00.19): 100%|██████████| 180/180 [00:46<00:00,  3.89it/s]
+62.01126027107239 seconds is are takes for CTGAN
+Gen. (+00.39) | Discrim. (-00.21): 100%|██████████| 180/180 [00:48<00:00,  3.69it/s]
+63.2874321937561 seconds is are takes for CTGAN
+Gen. (-00.90) | Discrim. (+00.38): 100%|██████████| 180/180 [01:50<00:00,  1.62it/s]
+146.01363706588745 seconds is are takes for CTGAN
+Gen. (+00.79) | Discrim. (-00.20): 100%|██████████| 180/180 [01:47<00:00,  1.68it/s]
+142.76854419708252 seconds is are takes for CTGAN
+Gen. (+01.12) | Discrim. (+00.03): 100%|██████████| 180/180 [01:45<00:00,  1.71it/s]
+142.51125073432922 seconds is are takes for CTGAN
+Gen. (-00.52) | Discrim. (-00.78): 100%|██████████| 180/180 [01:57<00:00,  1.53it/s]
+154.60570740699768 seconds is are takes for CTGAN
+Gen. (-01.36) | Discrim. (-00.30): 100%|██████████| 180/180 [01:43<00:00,  1.75it/s]
+137.91855335235596 seconds is are takes for CTGAN

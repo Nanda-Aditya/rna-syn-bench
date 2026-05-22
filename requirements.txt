@@ -1,0 +1,10 @@
+scikit-learn==1.6.1
+scipy==1.15.1
+numpy==2.2.0
+pandas==2.3.1
+matplotlib
+shap
+pydeseq2==0.5.3
+joblib==1.4.2
+umap-learn==0.5.9.post2
+mygene==3.2.2
