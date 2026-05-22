@@ -159,4 +159,8 @@ If you use this benchmark, please cite the preprint:
 
 > Nanda A, Saha S. *Synthetic RNA-seq cohorts for data sharing: a discovery-aware benchmark at transcriptome scale.* 2025. Preprint.
 
+And the software: 
+
+[![DOI](https://zenodo.org/badge/1246845386.svg)](https://doi.org/10.5281/zenodo.20347265)
+
 Corresponding author: aditya@dbtwin.com
