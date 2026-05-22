@@ -1,6 +1,6 @@
 # rna-syn-bench
 
-Benchmark code for the preprint **"Synthetic RNA-seq cohorts for data sharing: a discovery-aware benchmark at transcriptome scale"** (Nanda & Saha, 2025).
+Benchmark code for the preprint **"Synthetic RNA-seq cohorts for data sharing: a discovery-aware benchmark at transcriptome scale"** (Nanda & Saha, 2026).
 
 ---
 
